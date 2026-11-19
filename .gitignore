@@ -133,6 +133,7 @@ crashlytics-build.properties
 
 # UI Toolkit auto generated files
 /UIElementsSchema/
+/Assets/Toolkit
 
 # Auto-generated cache in Assets folder
 /[Aa]ssets/[Ss]ceneDependencyCache*
